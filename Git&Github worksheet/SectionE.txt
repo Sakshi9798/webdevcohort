@@ -1,0 +1,7 @@
+Open Source Contribution Simulation
+
+Fork the repo: Open-Source-Contribution
+
+Clone your fork, add your name and email to contributors.txt.
+
+Push and create a pull request from your fork to the original repo.
