@@ -1,9 +1,9 @@
 //syntax of arrow function
 //use let/const a=()=>{}
 
-//     const a=(a,b)=> {
-//     return a+b
-// }
+    const a=(a,b)=> {
+    return a+b
+}
 
 // optimize way
 const z =(a,b)=>a+b
