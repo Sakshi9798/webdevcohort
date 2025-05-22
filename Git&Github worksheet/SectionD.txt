@@ -1,9 +1,0 @@
-Task 6: Rebase
-
-git checkout -b feature-rebase main
-
-Make a commit in both main and feature-rebase.
-
-git checkout feature-rebase && git rebase main
-
-git log --oneline shows commits from feature-rebase on top of main.
