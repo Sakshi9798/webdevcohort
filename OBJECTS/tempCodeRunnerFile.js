@@ -1,7 +1,11 @@
-const youtubeVideos={
+const youtubeVideos = {
     title: "js in one shot",
     channel: "alpha intern",
-    likes: 1000
+    likes: 1000 
+};
+
+function getVideosViews(videos) {
+    return videos.likes;  // use the function parameter correctly
 }
 
-function getVideosVeiws(videos){
+console.log(getVideosViews(youtubeVideos));  // Output: 1000

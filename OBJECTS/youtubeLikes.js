@@ -5,7 +5,8 @@ const youtubeVideos = {
 };
 
 function getVideosViews(videos) {
-    return (youtubevideos.likes);  // use parameter and correct case
+    return videos.likes;  // use the function parameter correctly
 }
 
-  getVideosVeiws(youtubevideos)// Output: 1000
+console.log(getVideosViews(youtubeVideos));  // Output: 1000
+
